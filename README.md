@@ -16,8 +16,12 @@ Improves automation coverage for complex, graphics-heavy, or custom-rendered UI 
 🛠️ Tech Stack
 
 Python 3.x
+
 pytesseract (OCR engine)
+
 pyautogui
+
 Robot Framework's SeleniumLibrary (For browser interaction)
+
 PIL (Pillow) (Image handling)
 
