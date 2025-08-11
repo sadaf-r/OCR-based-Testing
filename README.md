@@ -14,11 +14,10 @@ Enables text-based automation for dropdowns, buttons, or other non-inspectable c
 Improves automation coverage for complex, graphics-heavy, or custom-rendered UI elements.
 
 🛠️ Tech Stack
+
 Python 3.x
-
 pytesseract (OCR engine)
-
-Selenium (For browser interaction)
-
+pyautogui
+Robot Framework's SeleniumLibrary (For browser interaction)
 PIL (Pillow) (Image handling)
 
